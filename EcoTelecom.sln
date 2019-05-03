@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcoTelecom", "TestCS\EcoTelecom.csproj", "{84E7383A-5844-42C5-A499-400E15072F46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84E7383A-5844-42C5-A499-400E15072F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E7383A-5844-42C5-A499-400E15072F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E7383A-5844-42C5-A499-400E15072F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E7383A-5844-42C5-A499-400E15072F46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBF9644D-24F3-440B-9C20-7B41C873878F}
+	EndGlobalSection
+EndGlobal
