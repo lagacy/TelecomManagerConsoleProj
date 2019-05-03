@@ -15,7 +15,8 @@
  * First: the information will be localy store in a text file like: XML, JSON, Text -> the operator will have choices when selecting the Save or Export option.
  * Second: The information will be linked to a relational database(MySQL) and with a NOSQL DB(I will use MongoDB here)
  
- <ol><h2>The base fuctionality would be:</h2>
+ <h2>The base fuctionalitys would be:</h2>
+ <ol>
      <li>Registering the client info in a database</li>
      <li>Bill the client each minute(To see the process in action).</li>
      <li>Print bill info in a PDF File</li>
@@ -31,7 +32,8 @@
      <li>deactivate service</li>
  </ol>
 
-   <ol><h2>The skill that i need to worked on and integrate in the project<h2>
+   <h2>The skills that i need to worked on and integrate in the project:</h2>
+   <ol>
    
    <li>Some sorting algorithm.</li>
     <li>IO management.</li>
