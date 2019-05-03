@@ -1,5 +1,7 @@
 # TelecomManagerConsoleProj
 
+<h1><i>!!README FILE IS WIP</i>!!</h1>
+
  * The application is just a test for c# and .net learning, the goal will be to work with as many functionality and algorithm as possible.
  * This isn't a professional software nor is it the goal, it will surely be messy as hell, but i will try to clean it after working with each functionality.
  
@@ -13,41 +15,44 @@
  * First: the information will be localy store in a text file like: XML, JSON, Text -> the operator will have choices when selecting the Save or Export option.
  * Second: The information will be linked to a relational database(MySQL) and with a NOSQL DB(I will use MongoDB here)
  
- * The base fuctionality would be:
-    -Registering the client info in a database
-    -Bill the client each minute(To see the process in action).
-    -Print bill info in a PDF File
-    -Make a payment(no real payment processing here)
-    -Make a correction on bill
-    -Count is place auto in Collection if the ammount reach a certain limit.
-    -See a list of the promotion.
-    -Total ammount left
-    -See the service aquired
-    -See the service that can be offer
-    -See the state of the service
-    -Create a new service
-    -deactivate service
+ <ol><h2>The base fuctionality would be:</h2>
+     <li>Registering the client info in a database</li>
+     <li>Bill the client each minute(To see the process in action).</li>
+     <li>Print bill info in a PDF File</li>
+     <li>Make a payment(no real payment processing here)</li>
+     <li>Make a correction on bill</li>
+     <li>Count is place auto in Collection if the ammount reach a certain limit.</li>
+    <li>-See a list of the promotion.</li>
+     <li>Total ammount left</li>
+     <li>See the service aquired</li>
+     <li>See the service that can be offer</li>
+     <li>See the state of the service</li>
+     <li>Create a new service</li>
+     <li>deactivate service</li>
+ </ol>
 
-   *The skill that i need to worked on and integrate in the project
-    -Some sorting algorithm.
-    -IO management.
-    -PDF Handling
-    -Relational Database MySQL
-    -MongoDB
-    -C# Basic to advanced functionality.
-    -Async operation.
-    -.Net Core
-    -Use of pattern
-    -Clean software approach
-    -Agile developement.
-    -JSON
-    -XML
-    -LINQ
-    -String operation
-    -Abstraction
-    -Inheritance
-    -Polymorphism
-    -Encapsulation
-    -Interface
-    -Documentation
-    -Source Control
+   <ol><h2>The skill that i need to worked on and integrate in the project<h2>
+   
+   <li>Some sorting algorithm.</li>
+    <li>IO management.</li>
+   <li>PDF Handling</li>
+    <li>Relational Database MySQL</li>
+    <li>MongoDB</li>
+   <li>C# Basic to advanced functionality.</li>
+    <li>Async operation.</li>
+    <li>.Net Core</li>
+    <li>Use of pattern</li>
+     <li>Clean software approach</li>
+     <li>Agile developement.</li>
+     <li>JSON</li>
+     <li>XML</li>
+     <li>LINQ</li>
+     <li>String operation</li>
+     <li>Abstraction</li>
+     <li>Inheritance</li>
+     <li>Polymorphism</li>
+     <li>Encapsulation</li>
+     <li>Interface</li>
+     <li>Documentation</li>
+     
+   </ol>
