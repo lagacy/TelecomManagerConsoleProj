@@ -22,12 +22,12 @@
     -See a list of the promotion.
     -Total ammount left
     -See the service aquired
-    -See the service that can be aquired
+    -See the service that can be offer
     -See the state of the service
     -Create a new service
     -deactivate service
 
-   *The skill that i need to worked on and to integrate in the project
+   *The skill that i need to worked on and integrate in the project
     -Some sorting algorithm.
     -IO management.
     -PDF Handling
@@ -38,7 +38,7 @@
     -.Net Core
     -Use of pattern
     -Clean software approach
-    -Agile developement
+    -Agile developement.
     -JSON
     -XML
     -LINQ
@@ -46,6 +46,7 @@
     -Abstraction
     -Inheritance
     -Polymorphism
+    -Encapsulation
     -Interface
     -Documentation
  */
