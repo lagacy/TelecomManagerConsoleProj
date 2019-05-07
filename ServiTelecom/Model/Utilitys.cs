@@ -67,6 +67,8 @@ namespace ServiTelecom.Utilitys
             {
                 Address tempAdress = new Address();
 
+                return tempAdress;
+
             }
 
             //Make an address from a complete string and decompose it.
@@ -74,6 +76,7 @@ namespace ServiTelecom.Utilitys
             {
                 Address tempAddress = new Address();
 
+                return tempAddress;
             }
 
 
